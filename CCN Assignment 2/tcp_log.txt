@@ -1,0 +1,206 @@
+tcp_server.py log
+    Server is listening...
+    sent message 0
+    sent message 1
+    sent message 2
+    sent message 3
+    sent message 4
+    sent message 5
+    sent message 6
+    sent message 7
+    sent message 8
+    sent message 9
+    sent message 10
+    sent message 11
+    sent message 12
+    sent message 13
+    sent message 14
+    sent message 15
+    sent message 16
+    sent message 17
+    sent message 18
+    sent message 19
+    sent message 20
+    sent message 21
+    sent message 22
+    sent message 23
+    sent message 24
+    sent message 25
+    sent message 26
+    sent message 27
+    sent message 28
+    sent message 29
+    sent message 30
+    sent message 31
+    sent message 32
+    sent message 33
+    sent message 34
+    sent message 35
+    sent message 36
+    sent message 37
+    sent message 38
+    sent message 39
+    sent message 40
+    sent message 41
+    sent message 42
+    sent message 43
+    sent message 44
+    sent message 45
+    sent message 46
+    sent message 47
+    sent message 48
+    sent message 49
+    sent message 50
+    sent message 51
+    sent message 52
+    sent message 53
+    sent message 54
+    sent message 55
+    sent message 56
+    sent message 57
+    sent message 58
+    sent message 59
+    sent message 60
+    sent message 61
+    sent message 62
+    sent message 63
+    sent message 64
+    sent message 65
+    sent message 66
+    sent message 67
+    sent message 68
+    sent message 69
+    sent message 70
+    sent message 71
+    sent message 72
+    sent message 73
+    sent message 74
+    sent message 75
+    sent message 76
+    sent message 77
+    sent message 78
+    sent message 79
+    sent message 80
+    sent message 81
+    sent message 82
+    sent message 83
+    sent message 84
+    sent message 85
+    sent message 86
+    sent message 87
+    sent message 88
+    sent message 89
+    sent message 90
+    sent message 91
+    sent message 92
+    sent message 93
+    sent message 94
+    sent message 95
+    sent message 96
+    sent message 97
+    sent message 98
+    sent message 99
+
+tcp_client.py log
+    Recieved: sent message 0
+    Recieved: sent message 1
+    Recieved: sent message 2
+    Recieved: sent message 3
+    Recieved: sent message 4
+    Recieved: sent message 5
+    Recieved: sent message 6
+    Recieved: sent message 7
+    Recieved: sent message 8
+    Recieved: sent message 9
+    Recieved: sent message 10
+    Recieved: sent message 11
+    Recieved: sent message 12
+    Recieved: sent message 13
+    Recieved: sent message 14
+    Recieved: sent message 15
+    Recieved: sent message 16
+    Recieved: sent message 17
+    Recieved: sent message 18
+    Recieved: sent message 19
+    Recieved: sent message 20
+    Recieved: sent message 21
+    Recieved: sent message 22
+    Recieved: sent message 23
+    Recieved: sent message 24
+    Recieved: sent message 25
+    Recieved: sent message 26
+    Recieved: sent message 27
+    Recieved: sent message 28
+    Recieved: sent message 29
+    Recieved: sent message 30
+    Recieved: sent message 31
+    Recieved: sent message 32
+    Recieved: sent message 33
+    Recieved: sent message 34
+    Recieved: sent message 35
+    Recieved: sent message 36
+    Recieved: sent message 37
+    Recieved: sent message 38
+    Recieved: sent message 39
+    Recieved: sent message 40
+    Recieved: sent message 41
+    Recieved: sent message 42
+    Recieved: sent message 43
+    Recieved: sent message 44
+    Recieved: sent message 45
+    Recieved: sent message 46
+    Recieved: sent message 47
+    Recieved: sent message 48
+    Recieved: sent message 49
+    Recieved: sent message 50
+    Recieved: sent message 51
+    Recieved: sent message 52
+    Recieved: sent message 53
+    Recieved: sent message 54
+    Recieved: sent message 55
+    Recieved: sent message 56
+    Recieved: sent message 57
+    Recieved: sent message 58
+    Recieved: sent message 59
+    Recieved: sent message 60
+    Recieved: sent message 61
+    Recieved: sent message 62
+    Recieved: sent message 63
+    Recieved: sent message 64
+    Recieved: sent message 65
+    Recieved: sent message 66
+    Recieved: sent message 67
+    Recieved: sent message 68
+    Recieved: sent message 69
+    Recieved: sent message 70
+    Recieved: sent message 71
+    Recieved: sent message 72
+    Recieved: sent message 73
+    Recieved: sent message 74
+    Recieved: sent message 75
+    Recieved: sent message 76
+    Recieved: sent message 77
+    Recieved: sent message 78
+    Recieved: sent message 79
+    Recieved: sent message 80
+    Recieved: sent message 81
+    Recieved: sent message 82
+    Recieved: sent message 83
+    Recieved: sent message 84
+    Recieved: sent message 85
+    Recieved: sent message 86
+    Recieved: sent message 87
+    Recieved: sent message 88
+    Recieved: sent message 89
+    Recieved: sent message 90
+    Recieved: sent message 91
+    Recieved: sent message 92
+    Recieved: sent message 93
+    Recieved: sent message 94
+    Recieved: sent message 95
+    Recieved: sent message 96
+    Recieved: sent message 97
+    Recieved: sent message 98
+    Recieved: sent message 99
+    Average time: 0.5123400688171387ms
+    Thoughput: 77.68277833878571 bits/ms
